@@ -1,0 +1,10 @@
+{
+    "name": "Meine Progressive Web App",
+    "short_name": "Meine PWA",
+    "description": "Eine Progressive Web App",
+    "start_url": "index.html",
+    "icons": [],
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+  }
